@@ -11,23 +11,17 @@ npm run serve
 ```
 
 ## Operating steps
-```
-While complied successfully, open your browser on http://localhost:8080/.
-```
+**While complied successfully, open your browser on http://localhost:8080/.**
 ![image](https://github.com/HuihuiChang/Ant-Design-Vue/blob/master/ImageFolderForReadMe/Table.png)
-```
-In the Operation column of the table, there are two links. Click on the first link to open a Modal.
-```
+
+**In the Operation column of the table, there are two links. Click on the first link to open a Modal.**
 ![image](https://github.com/HuihuiChang/Ant-Design-Vue/blob/master/ImageFolderForReadMe/Modal.png)
-```
-Click the second link to open the Comment page.
-```
+
+**Click the second link to open the Comment page.**
 ![image](https://github.com/HuihuiChang/Ant-Design-Vue/blob/master/ImageFolderForReadMe/Comments.png)
-```
-At the bottom of the page, you can add comments.
-```
+
+**At the bottom of the page, you can add comments.**
 ![image](https://github.com/HuihuiChang/Ant-Design-Vue/blob/master/ImageFolderForReadMe/AddComment.png)
-```
-Comments submitted are displayed at the top of the page.
-```
+
+**Comments submitted are displayed at the top of the page.**
 ![image](https://github.com/HuihuiChang/Ant-Design-Vue/blob/master/ImageFolderForReadMe/AddedComment.png)
