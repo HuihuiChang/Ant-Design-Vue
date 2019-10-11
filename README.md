@@ -9,3 +9,6 @@ npm install
 ```
 npm run serve
 ```
+This is a image!
+
+![image](https://github.com/HuihuiChang/Ant-Design-Vue/blob/master/ImageFolderForReadMe/Table.png)
