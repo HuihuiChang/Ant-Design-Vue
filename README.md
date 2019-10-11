@@ -9,6 +9,7 @@ npm install
 ```
 npm run serve
 ```
-This is a image!
 
+## Operating steps
+While complied successfully, open your browser on http://localhost:8080/.
 ![image](https://github.com/HuihuiChang/Ant-Design-Vue/blob/master/ImageFolderForReadMe/Table.png)
