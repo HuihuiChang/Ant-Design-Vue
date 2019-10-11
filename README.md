@@ -21,8 +21,6 @@ npm run serve
 ![image](https://github.com/HuihuiChang/Ant-Design-Vue/blob/master/ImageFolderForReadMe/Modal.png)
 
 **Click the second link to open the Comment page.**
-
-
 ![image](https://github.com/HuihuiChang/Ant-Design-Vue/blob/master/ImageFolderForReadMe/Comment.png)
 
 **At the bottom of the page, you can add comments.**
