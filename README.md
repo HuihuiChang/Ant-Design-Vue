@@ -1,5 +1,5 @@
-# Ant-Design-Vue
-Attempts with the Table and Comment components of Ant Design Vue.
+# Ant-Design-Vue-Test
+Adaptive layout and Triangle.
 ## Project setup
 ```
 npm install
@@ -9,3 +9,8 @@ npm install
 ```
 npm run serve
 ```
+
+### First Question
+http://localhost:8080/#/
+### Second Question
+http://localhost:8080/#/triangle
